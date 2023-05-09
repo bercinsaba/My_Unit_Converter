@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Unit Converter</string>
+    <array name="mass">
+        <item>KG to POUNDS</item>
+        <item>POUNDS to KG</item>
+    </array>
+    <array name="length">
+        <item>MILES to KM</item>
+        <item>KM to MILES</item>
+    </array>
+    <array name="temperature">
+        <item>FAHRENHEIT to CELCIUS</item>
+        <item>CELCIUS to FAHRENHEIT</item>
+    </array>
+
+    <integer-array name="iMass">
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="iLength">
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+    <integer-array name="iTemp">
+        <item>4</item>
+        <item>5</item>
+    </integer-array>
+</resources>
